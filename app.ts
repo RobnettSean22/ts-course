@@ -19,7 +19,6 @@
 // const AUTHOR = 2
 
 //enum example {5, 6,7} incrementing numbers
-
 enum Role {
   ADMIN = 5,
   READ_ONLY,
@@ -34,7 +33,7 @@ const person = {
 };
 
 // person.role.push("admin");
-
+hirunfnoifnfjosidjfosdjoijfosdjoifjsodjfsodijofjsdiojoisoooo;
 let favoriteActivites: string[];
 favoriteActivites = ["football"];
 console.log(person.name);
