@@ -33,10 +33,6 @@ const person = {
 };
 
 // person.role.push("admin");
-hirunfnoifnfjosidjfosdjoijfosdjoifjsodjfsodijofjsdiojoisoooo;
-let favoriteActivites: string[];
-favoriteActivites = ["football"];
-console.log(person.name);
 
 for (const hobby of person.hobbies) {
   console.log(hobby.toLocaleLowerCase());
